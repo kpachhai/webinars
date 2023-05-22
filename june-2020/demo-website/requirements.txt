@@ -10,7 +10,7 @@ django-sass-processor==0.7.4
 django-simple-cookie-consent==0.1.1
 djangorestframework==3.11.2
 -e git+https://github.com/dprog-philippe-docourt/django-qr-code.git@d8811b7e05b1beff466c7800007b603c3c1eae7f#egg=django_qr_code
-requests==2.23.0
+requests==2.31.0
 PyJWT==1.7.1
 python-decouple==3.3
 Pillow==8.1.1
